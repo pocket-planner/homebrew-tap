@@ -1,6 +1,6 @@
 cask "pocket-planner" do
-  version "2.4.0"
-  sha256 "16ee4324225886a6ba28cad8ad34de34c3a35f5b0b1d067448991bce96eaf44c"
+  version "2.4.1"
+  sha256 "0918da5966c1d21b47e580c60f678399375ee4377fd4e7cde14aff0ca91e6f1c"
 
   url "https://github.com/pocket-planner/desktop-app-releases/releases/download/v#{version}/Pocket-Planner-#{version}-arm64.dmg"
   name "Pocket Planner"
